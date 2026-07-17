@@ -49,11 +49,11 @@ The goal of the project was to explore AI integration with embedded hardware whi
 
 ## Gallery
 
-### Edison Running
+### Edison Structure
 
-![Edison Running](images/edisonmain.png)
+![Edison Main](images/edisonmain.png)
 
-*Current Raspberry Pi implementation running Edison with animated eyes.*
+*Displays the goal of the project and vision for Edison.*
 
 ---
 
